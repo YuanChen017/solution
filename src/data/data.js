@@ -1,0 +1,23 @@
+const dataset = [
+  { customer: "John", purchasecost: 120, purchasedate: "2022-01-22" },
+  { customer: "John", purchasecost: 99, purchasedate: "2022-01-25" },
+  { customer: "Mike", purchasecost: 99, purchasedate: "2022-01-25" },
+  { customer: "Mike", purchasecost: 49, purchasedate: "2022-02-12" },
+  { customer: "John", purchasecost: 55, purchasedate: "2022-03-02" },
+  { customer: "Mike", purchasecost: 200, purchasedate: "2022-03-12" },
+  { customer: "John", purchasecost: 234, purchasedate: "2022-03-22" },
+  { customer: "Mike", purchasecost: 234, purchasedate: "2022-03-22" },
+  { customer: "John", purchasecost: 234, purchasedate: "2022-03-22" },
+  { customer: "John", purchasecost: 234, purchasedate: "2022-03-22" },
+  { customer: "Joe", purchasecost: 99, purchasedate: "2022-01-25" },
+  { customer: "Joe", purchasecost: 99, purchasedate: "2022-01-25" },
+  { customer: "Joe", purchasecost: 49, purchasedate: "2022-02-12" },
+  { customer: "Joe", purchasecost: 55, purchasedate: "2022-03-02" },
+  { customer: "Joe", purchasecost: 200, purchasedate: "2022-03-12" },
+  { customer: "James", purchasecost: 123, purchasedate: "2022-01-25" },
+  { customer: "James", purchasecost: 65, purchasedate: "2022-01-25" },
+  { customer: "James", purchasecost: 12, purchasedate: "2022-02-12" },
+  { customer: "James", purchasecost: 95, purchasedate: "2022-03-02" },
+  { customer: "James", purchasecost: 111, purchasedate: "2022-03-12" },
+];
+export default dataset;
